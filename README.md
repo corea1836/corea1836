@@ -18,7 +18,7 @@
 <br/>
 
 ### 📚 My github history
-[![JB's GitHub stats](https://github-readme-stats.vercel.app/api?username=f-lab-dev)](https://github.com/anuraghazra/github-readme-stats)
+[![JB's GitHub stats](https://github-readme-stats.vercel.app/api?username=JB)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
